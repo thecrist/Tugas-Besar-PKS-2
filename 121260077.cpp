@@ -6,7 +6,6 @@
 using namespace std;
 
 typedef struct{
-	int barang;
 	int kode;
 	char nama[20];
 	int stock;
